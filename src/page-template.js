@@ -18,3 +18,7 @@ module.exports = (name, github) => {
 };
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0c2de9d822eee6cf11bacf253adf0e64704e4f35
